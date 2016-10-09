@@ -4,5 +4,6 @@
 
 这时试试 git commit -m your commit message
 
+试试sourcetree
 
 
