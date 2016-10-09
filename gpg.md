@@ -6,4 +6,6 @@
 
 试试sourcetree
 
+gpg2什么鬼，安装，又卸载了
+
 
